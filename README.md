@@ -1,7 +1,9 @@
 # dir_fuzzing
-this is for education purpose only 
+This is for education purpose only 
 
-this tools is used for fuzzing a directory in any website
+Simple tool
+
+This tools is used for fuzzing a directory in any website
 
 # How to use
 
