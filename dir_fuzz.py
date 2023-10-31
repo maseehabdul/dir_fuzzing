@@ -31,7 +31,7 @@ def fuzz():
                     # Check the response status code
                     if response.status_code == 200:
                             print(f"Directory found: {url1}")
-                    elif response.status_code == 302:
+                    elif response.status_code == 404:
                             print(f"Not Found: {url1}")
                         
                             
