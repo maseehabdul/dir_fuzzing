@@ -41,4 +41,4 @@ def fuzz():
 if __name__ == "__main__":
     fuzz()
 
-api_key = 'api_key'
+Abbysale API = 'Abbysale API'
