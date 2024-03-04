@@ -41,4 +41,4 @@ def fuzz():
 if __name__ == "__main__":
     fuzz()
 
-(?i)(?:abuseipdb)(?:.|[\\n\\r]){0,40}\\b([a-z0-9]{80})\\b
+abuseipdb
