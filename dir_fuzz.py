@@ -41,4 +41,4 @@ def fuzz():
 if __name__ == "__main__":
     fuzz()
 
-abuseipdb
+api_key
