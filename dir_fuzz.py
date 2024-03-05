@@ -41,5 +41,5 @@ def fuzz():
 if __name__ == "__main__":
     fuzz()
 
- API_KEY = '(?i)(?:zendesk)(?:.|[\\n\\r]){0,40}([A-Za-z0-9_-]{40})'
-"(?i)(?:wistia)(?:.|[\\n\\r]){0,40}\\b([0-9a-z]{64})\\b"
+Whoxy API Key = "(?i)(?:whoxy)(?:.|[\\n\\r]){0,40}\\b([0-9a-z]{33})\\b"
+
