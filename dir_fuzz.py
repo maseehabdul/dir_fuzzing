@@ -41,5 +41,5 @@ def fuzz():
 if __name__ == "__main__":
     fuzz()
 
-Whoxy API Key = "(?i)(?:whoxy)(?:.|[\\n\\r]){0,40}\\b([0-9a-z]{33})\\b"
+
 
